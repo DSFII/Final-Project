@@ -1,0 +1,30 @@
+:root {
+    --primary-theme-color: rgb(0, 203, 68);
+    --secondary-theme-color: rgb(0, 203, 68);
+    --accent-theme-color: rgb(0, 203, 68);
+    font-family: 'Chakra Petch', sans-serif;
+}
+nav{
+    font-family: 'Emblema One';
+    background-color: black;
+    color: rgb(0, 203, 68);
+}
+#jumbotron-section{
+    font-family: 'Chakra Petch', sans-serif;
+    height: 560px;
+    color: rgb(0, 203, 68);
+    background-image: url("https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg");
+    background-size: cover;
+    background-position: center center;
+}
+main{
+    font-family: 'Chakra Petch', sans-serif;
+    margin: 5rem;
+    background-color: black;
+    color: rgb(0, 203, 68);
+}
+footer{
+    font-family: 'Chakra Petch', sans-serif;
+    background-color: rgb(0, 203, 68);
+    color: black;
+}

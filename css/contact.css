@@ -1,0 +1,24 @@
+:root {
+    --primary-theme-color: rgb(0, 203, 68);
+    --secondary-theme-color: rgb(0, 203, 68);
+    --accent-theme-color: rgb(0, 203, 68);
+    font-family: 'Chakra Petch', sans-serif;
+}
+img{
+    scale: 50%;
+}
+#jumbocontact-section{
+    font-family: 'Chakra Petch', sans-serif;
+    height: 560px;
+    color: black;
+    background-image: url(../img/circuit-board-g43bdeeaaf_1920.png);
+    background-size: cover;
+    background-position: center center;
+}
+h1{
+    color: rgb(0, 203, 68);
+}
+
+footer > h1{
+    color: black;
+}
